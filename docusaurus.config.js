@@ -41,7 +41,7 @@ const config = {
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          routeBasePath: '/', // 将博客设置为网站的根页面
+          // routeBasePath: '/', // 将博客设置为网站的根页面
           blogTitle: 'NoteBook',
           showReadingTime: true,
           // Please change this to your repo.
